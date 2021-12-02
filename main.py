@@ -13,7 +13,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn import metrics
 
 URL = (
-    "https://raw.githubusercontent.com/wattsl3/AnDS-Christmas-Hackathon"
+    "https://raw.githubusercontent.com/wattsl3/AnDS-Christmas-Hackathon-2021"
     "/main/Car_Insurance_Claims.csv"
 )
 data = pd.read_csv(URL)
